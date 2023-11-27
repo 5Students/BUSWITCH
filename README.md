@@ -5,7 +5,7 @@
 
 ### Function
 #### 1. 웹 서비스 제공
-![image](https://github.com/5Students/BUSWITCH/assets/87411576/ca9a7a57-6a83-42c7-9549-0dfe4d1f98db)
+![image](https://github.com/5Students/BUSWITCH/assets/87411576/85087144-ee3d-4f4d-a3bb-9dd35e5f52bc)
 
 - 자치구로 필터링
 - 노선으로 필터링
